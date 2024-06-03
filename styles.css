@@ -57,7 +57,7 @@
 		}
 		.sg img{
 			
-			height:70%;
+			height:100%;
 		   position:absolute;
 			left: 10%;
 			bottom: 0;
@@ -88,4 +88,7 @@
             *{
             font-size: 12px;
             }
+		.sg img{
+		height:70%;
             }
+	    }
